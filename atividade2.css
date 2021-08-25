@@ -1,0 +1,20 @@
+img{
+
+	float: right;
+		width:350px;
+	height:275px;
+	border:1px solid
+	
+}
+.imagem{
+	position: fixed;
+}
+.head{
+	position: fixed;
+}
+.footer{
+	position: fixed;
+	  position:absolute;
+    bottom:0;
+    width:100%
+}

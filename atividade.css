@@ -1,0 +1,48 @@
+p{
+	margin-top: 25px;
+	margin-right: 50px ;
+	margin-bottom:75px ;
+	margin-left: 100px ;
+}
+.primeiro{
+	      border: solid;
+	      border-width: 7px;
+	      border-color: blue;
+	      border-radius: 15px;
+	      background-color: lightblue;
+}
+.segundo{
+	     border-style: solid;
+	     border-color: orange;
+	     background-color: orange;
+}
+.terceiro{
+	      border: dotted;
+	      border-color: pink;
+	      background-color: lightpink; 
+}
+.quarto{
+	    border-style: dashed;
+        border-color: salmon;
+        background-color: lightsalmon ;
+ }
+ .quinto{
+ 	     border-style: double;
+ 	     border-width:15px;
+ 	     border-color: red;
+ 	     background-color: indianred;
+ }
+ .sexto{
+ 	    border-style: double;
+ 	    border-width: 4px;
+ 	    border-color: yellow;
+ 	    background-color: lightyellow;
+ }
+ .setimo{
+          border: solid;
+          border-bottom-width: 10px;
+          border-left-width: 25px;
+          border-right-width: 10px;
+          border-color: green;
+          background-color: lightgreen;
+ }
